@@ -1,0 +1,1 @@
+Este projeto faz parte de um desafio da Incode Tech School, criado para testar o domínio dos conceitos de HTML e CSS abordados em aula.
